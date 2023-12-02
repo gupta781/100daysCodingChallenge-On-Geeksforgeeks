@@ -1,1 +1,1 @@
-# 100-days-Coding-Challenge-On-Geeksforgeeks
+# 100-days-Coding-Challenge
